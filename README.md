@@ -1,1 +1,2 @@
 # JSON_API
+In this project I used tvmaze api to retrieve the movies or the shows using the html. In case you want to use it clone the project and open the index.html and you will be good to go remember you can do any modification as you wish. Thank you.
